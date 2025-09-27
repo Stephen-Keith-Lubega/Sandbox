@@ -1,4 +1,4 @@
 """
-Stephen Kieth Lubega
+Stephen Keith Lubega
 """
 
